@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Proyecto Sistema de Votaciones
+dev.db
+statistics_chart.png
