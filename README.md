@@ -188,8 +188,9 @@ Respuesta de ejemplo:
 - Errores de validación (`422`), recursos no encontrados (`404`), conflictos (`409`) y solicitudes inválidas (`400`) devuelven respuestas estructuradas y consistentes.
 
 ## Capturas de las estadísticas
+(Grafica de ejemplo con los datos de prueba)
 
-FALTA
+![Grafica de resultados](screenshots/statistics_chart.png)
 
 ## Notas de arquitectura
 
